@@ -46,7 +46,6 @@ Custom Branding
 ```
 from litellm import completion
 import os
-
 ## set ENV variables
 os.environ["OPENAI_API_KEY"] = "your-openai-key"
 os.environ["ANTHROPIC_API_KEY"] = "your-anthropic-key"
