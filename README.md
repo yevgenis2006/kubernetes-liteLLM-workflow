@@ -1,7 +1,7 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a0f775fa-6e1f-4793-ae27-b4d2191285af" />
 
 
-## LiteLLM | AWS - GCP - Azure
+## LiteLLM | Kubernetes
 LiteLLM is an open-source LLM gateway that provides a unified interface to over 100 different large language models (LLMs) from various providers like OpenAI, Anthropic, and Cohere, allowing developers to interact with them using a single, OpenAI-compatible API format. It simplifies integration by handling the complexities of different model providers, offering features such as load balancing, cost tracking, authentication, and logging. 
 
 
