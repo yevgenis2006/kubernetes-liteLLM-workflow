@@ -30,7 +30,7 @@ LiteLLM is an open-source LLM gateway that provides a unified interface to over 
 | `CloudFront` | Fast, globally distributed Content Delivery Network|
 | `EKS` | Elastic Kubernetes Service, is a fully managed service by Amazon Web Services |
 | `Minio` | S3 Object Storage |
-| `API Gateway` |REST API |
+| `API Gateway` |API Gateway is a central entry point that manages client requests to backend services |
 | `Argo Events` | Event-driven workflow automation |
 | `LiteLLM ` |  lightweight, powerful abstraction layer that unifies LLM API calls across providers |
 | `Open Web UI ` |  WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform  |
